@@ -23,7 +23,7 @@ COLORS = {
     'primary': '#0F172A',     # Bleu nuit industriel
     'secondary': '#1E293B',   # Gris bleu profond
     'success': '#16A34A',     # Vert technique
-    'info': '#0284C7',        # Bleu scientifique
+    'info': "#C702A6",        # Bleu scientifique
     'warning': '#D97706',     # Cuivre industriel
     'danger': '#B91C1C',      # Rouge sobre
     'light': '#F8FAFC',       # Blanc cassé
