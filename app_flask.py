@@ -1834,5 +1834,5 @@ if __name__ == "__main__":
     print("✓ Pas d'abréviations k/M dans les nombres")
     print("✓ Appuyez sur Ctrl+C pour arrêter\n")
     print("-" * 70)
-    
-    app = Flask(__name__)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(debug=False, host="0.0.0.0", port=port)
