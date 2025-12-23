@@ -20,7 +20,7 @@ plt.rcParams['font.size'] = 12
 
 # Configuration des couleurs
 COLORS = {
-    'primary': '#0F172A',     # Bleu nuit industriel
+    'primary': "#2A1C0F",     # Bleu nuit industriel
     'secondary': '#1E293B',   # Gris bleu profond
     'success': '#16A34A',     # Vert technique
     'info': "#C702A6",        # Bleu scientifique
